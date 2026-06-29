@@ -162,7 +162,5 @@ python data_cleaning.py
 
 ### Executive Dashboard
 
-![Dashboard](Images/dashboard.png)   
-
----
+![Dashboard](images/dashboard.png)
 
