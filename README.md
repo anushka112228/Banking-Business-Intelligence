@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏦 Banking Business Intelligence Dashboard
 
 > **Developed a Banking Business Intelligence Dashboard using SQL, Python, and Power BI to analyze customer demographics, account balances, loan distribution, and business KPIs, generating actionable insights through interactive visualizations.**
@@ -150,45 +150,19 @@ python data_cleaning.py
 5. **Germany Risk:** Highest churn rate despite highest average balances — competitor pressure signal
 6. **Credit Card Stickiness:** Card holders show measurably lower churn — product cross-sell has retention value
 
----
+## 🚀 Project Highlights
 
-## 🚀 How to Run
+- 📊 Analyzed 10,000 customer records
+- 🐍 Cleaned and transformed data using Python (Pandas)
+- 🗄️ Wrote 16 SQL business intelligence queries
+- 📈 Built an interactive Power BI dashboard using DAX
+- 🎯 Identified customer churn patterns and financial KPIs
 
-**Python:**
-```bash
-pip install pandas numpy
-cd Python/
-python data_cleaning.py
-```
+## 📸 Dashboard Preview
 
-**SQL:**
-```sql
--- Load banking_cleaned.csv into your SQL client
--- Run queries in SQL/banking_queries.sql
-```
+### Executive Dashboard
 
-**Power BI:**
-```
-1. Open PowerBI/Banking_BI_Dashboard.pbix
-2. Update data source path to Dataset/banking_cleaned.csv
-3. Refresh
-```
+![Dashboard](Images/dashboard.png)   
 
 ---
 
-## 📄 Resume Bullet
-
-> *Developed a Banking Business Intelligence Dashboard using SQL, Python, and Power BI to analyze customer demographics, account balances, loan distribution, and business KPIs, generating actionable insights through interactive visualizations.*
-
----
-
-## 👤 Author
-
-Portfolio Project | Banking Analytics · BI Development · Data Engineering
-
----
-
-*⭐ If this project helped you, please star the repository!*
-=======
-# Banking-Business-Intelligence
->>>>>>> 03360d7e9f49acfa628d8a9e36f48e1960262ac4
