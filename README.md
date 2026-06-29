@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 Banking Business Intelligence Dashboard
 
 > **Developed a Banking Business Intelligence Dashboard using SQL, Python, and Power BI to analyze customer demographics, account balances, loan distribution, and business KPIs, generating actionable insights through interactive visualizations.**
@@ -188,3 +189,6 @@ Portfolio Project | Banking Analytics · BI Development · Data Engineering
 ---
 
 *⭐ If this project helped you, please star the repository!*
+=======
+# Banking-Business-Intelligence
+>>>>>>> 03360d7e9f49acfa628d8a9e36f48e1960262ac4
